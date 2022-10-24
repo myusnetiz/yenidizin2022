@@ -21,7 +21,7 @@
 					<p><strong>Site Tanımı:</strong> <?php echo get_the_content(); ?></p>
 					<p><strong>Site Adresi:</strong> <a href="<?php $values = get_post_custom_values("ana_website_url"); echo $values[0]; ?>" target="_blank"><?php $values = get_post_custom_values("ana_website_url"); echo $values[0]; ?></a></p>
 					<p>"<strong><?php the_title(); ?></strong>" için aramalar:
-					<a rel="nofollow" href="https://duckduckgo.com/?q=<?php the_title(); ?>" target="_blank"><i class="fa fa-search"></i> DuckDuckgo</a> 
+					<a rel="nofollow" href="https://search.brave.com/search?q=<?php the_title(); ?>" target="_blank"><i class="fa fa-search"></i> Brave</a> 
 					<a rel="nofollow" href="https://search.yahoo.com/search?p=<?php the_title(); ?>" target="_blank"><i class="fa fa-search"></i> Yahoo</a> 
 					<a rel="nofollow" href="https://www.yandex.com/yandsearch?text=<?php the_title(); ?>" target="_blank"><i class="fa fa-search"></i> Yandex</a> 
 					<a rel="nofollow" href="https://www.google.com/search?q=<?php the_title(); ?>" target="_blank"><i class="fa fa-search"></i> Google</a> 
