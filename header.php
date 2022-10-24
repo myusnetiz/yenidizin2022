@@ -14,9 +14,9 @@
 
 <?php wp_head(); ?>
 <?php echo $ipt_theme_op_settings['integration']['header']; ?>
-<meta name="keywords" content="hptnc , dizin sitesi , web list," />
-<meta name="description" content="World Web List" />
-<meta name="copyright" content="&copy; HPTNC" />
+<meta name="keywords" content="globe," />
+<meta name="description" content="World Web" />
+<meta name="copyright" content="&copy; WebName" />
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -27,31 +27,10 @@
 	<?php endif; ?>
 	<?php wp_head(); ?>
 	
-<script src="https://www.google.com/recaptcha/api.js?render=6LdQw-MUAAAAANQcXS2Lq0SwE4s4XGexnHX9PpUl"></script>
-  <script>
-  grecaptcha.ready(function() {
-      grecaptcha.execute("6LdQw-MUAAAAAF6hs69fFjVJlSWe8HsfqwBruoBE", {action: "homepage"}).then(function(token) {
-         ...
-      });
-  });
-</script>
 
-<!-- Admatic imageplus x Ad Code START -->
-<ins data-publisher="adm-pub-149720679927" data-ad-type="imageplus" class="adm-ads-area" data-ad-network="117175119791" data-ad-sid="400"></ins>
-<script src="//cdn2.admatic.com.tr/showad/showad.js" async></script>
-<!-- Admatic imageplus x Ad Code END -->
 
-<!-- Admatic interstitial 800x600 Ad Code START -->
-<ins data-publisher="adm-pub-149720679927" data-ad-type="interstitial" class="adm-ads-area" data-ad-network="117175119791" data-ad-sid="209" data-ad-width="800" data-ad-height="600"></ins>
-<script src="//cdn2.admatic.com.tr/showad/showad.js" async></script>
-<!-- Admatic interstitial 800x600 Ad Code END -->
 
-<!-- Admatic inpage x Ad Code START -->
-<ins data-publisher="adm-pub-149720679927" data-ad-type="inpage" class="adm-ads-area" data-ad-network="117175119791" data-ad-sid="600"></ins>
-<script src="//cdn2.admatic.com.tr/showad/showad.js" async></script>
-<!-- Admatic inpage x Ad Code END -->
-
-<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(61265383, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/61265383" style="position:absolute; left:-9999px;" alt="img" /></div></noscript> <!-- /Yandex.Metrika counter -->	  
+	  
 
 	</head>
 	<body>
