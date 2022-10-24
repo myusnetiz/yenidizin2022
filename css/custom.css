@@ -1,0 +1,120 @@
+/* navbar */
+#custom-header-menu {
+	border:none;
+	height:60px;
+	padding:6px 0 0 0;
+}
+/* title */
+#custom-header-menu .navbar-brand {
+	padding-top:0px;
+}
+#custom-header-menu p.navbar-text {
+	margin-left:-0px;
+}
+/* link */
+#custom-header-menu .navbar-nav > li > a {
+	text-transform:uppercase;
+}
+#custom-header-menu .navbar-nav > li > a:hover,
+#custom-header-menu .navbar-nav > li > a:focus {
+	text-decoration: underline;
+}
+#custom-header-menu .navbar-nav > .active > a, 
+#custom-header-menu .navbar-nav > .active > a:hover, 
+#custom-header-menu .navbar-nav > .active > a:focus,
+#custom-header-menu .navbar-nav > li.dropdown > a.dropdown-toggle {
+	background:none;
+}
+/* dropdown */
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu > li {
+	margin-bottom:10px;
+}
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu {
+	border:none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu > li > a {
+	text-transform:uppercase;
+}
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu > li:hover > a {
+    background:none;
+	text-decoration: underline;
+}
+/* mobile version */
+#bs-example-navbar-collapse-1 {
+	border:none;
+}
+#custom-header-menu .collapse {
+    border: none;
+}
+@media (max-width: 767px) {
+	img.img-responsive {
+		width:100%;
+	}
+}
+.page-header {
+	margin:-14px 15px 14px 15px;
+}
+#wrapper .ana p {
+	font-size: 18px;
+	margin:0 15px 20px 15px;
+}
+#wrapper .ana p.kucuk {
+	margin:0 0 0 3px;
+}
+#wrapper .ana p.kucuk, #wrapper .ana p.kucuk a {
+	font-size:14px;
+}
+.glyphicon-plus {
+	font-size:10px;
+	margin:0 2px 0 0;
+}
+footer {
+	font-size:16px;
+	padding:0 0 8px 0;
+}
+.footer-menu {
+	margin:-6px 0 0 0;
+	text-align:right;
+}
+#dropdownMenu2 {
+	border:none;
+	font-size:16px;
+}
+#wrapper .ana h4 {
+	margin:0 0 6px 2px;	
+}
+img.thumbnail {
+	border:none;
+	margin:0 0 10px 0;
+	border-radius:0px;
+}
+.paging-navigation {
+	font-size:18px;
+}
+* {
+  border-radius: 0 !important;
+}
+#wrapper h4.kat-baslik {
+	padding:10px;
+	margin:0;
+}
+.kat-list {
+	font-size:16px;
+}
+dt, dd{
+	margin-bottom:10px;
+}
+a.moreof {
+	text-align:right;
+	font-size:14px;
+}
+.breadcrumb {
+	margin:-14px 0 0 0;
+	background:none;
+}
