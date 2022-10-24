@@ -25,7 +25,7 @@
 				</div>	
 				<div class="col-sm-12">
 					"<strong><?php single_cat_title(); ?></strong>" için aramalar:
-					<a rel="nofollow" href="https://searx.me/?q=<?php single_cat_title(); ?>" target="_blank">Searx</a> <i class='fas fa-star' style='color:#0066FF;'></i>
+					<a rel="nofollow" href="https://search.brave.com/search?q=<?php single_cat_title(); ?>" target="_blank">Brave</a> <i class='fas fa-star' style='color:#0066FF;'></i>
 					<a rel="nofollow" href="https://search.yahoo.com/search?p=<?php single_cat_title(); ?>" target="_blank">Yahoo</a> <i class='fas fa-star' style='color:#0066FF;'></i>
 					<a rel="nofollow" href="https://www.yandex.com/yandsearch?text=<?php single_cat_title(); ?>" target="_blank">Yandex</a> <i class='fas fa-star' style='color:#0066FF;'></i>
 					<a rel="nofollow" href="https://www.baidu.com/s?ie=<?php single_cat_title(); ?>" target="_blank">Baidu</a> <i class='fas fa-star' style='color:#0066FF;'></i>
