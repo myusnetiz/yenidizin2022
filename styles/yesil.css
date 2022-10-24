@@ -1,0 +1,64 @@
+#custom-header-menu,
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu > li,
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu,
+#custom-header-menu .navbar-toggle,
+#custom-header-menu .collapse,
+#custom-header-menu .navbar-toggle:hover,
+#custom-header-menu .navbar-toggle:focus,
+#dropdownMenu2:hover, #dropdownMenu2:active,
+#wrapper h4.kat-baslik {
+    background-color: #006302;
+}
+#custom-header-menu .navbar-brand,
+#custom-header-menu p.navbar-text,
+#custom-header-menu .navbar-brand:hover,
+#custom-header-menu .navbar-brand:focus,
+#custom-header-menu .navbar-nav > li > a,
+#custom-header-menu .navbar-nav > li > a:hover,
+#custom-header-menu .navbar-nav > li > a:focus,
+#custom-header-menu .navbar-nav > .active > a, 
+#custom-header-menu .navbar-nav > .active > a:hover, 
+#custom-header-menu .navbar-nav > .active > a:focus,
+#custom-header-menu .navbar-nav > li.dropdown > a.dropdown-toggle, 
+#custom-header-menu .navbar-nav > .open > a, 
+#custom-header-menu .navbar-nav > .open > a:hover, 
+#custom-header-menu .navbar-nav > .open > a:focus, 
+#custom-header-menu .navbar-nav > .dropdown > ul.dropdown-menu > li > a,
+#custom-header-menu .navbar-toggle,
+#dropdownMenu2:hover, #dropdownMenu2:active,
+#wrapper h4.kat-baslik {
+    color: #fff;
+}
+#custom-header-menu .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.text-kirmizi,
+#wrapper .ana a:hover, #wrapper .ana p.kucuk a:hover {
+    color:#78ad45;
+}
+#wrapper .ana a {
+    color: #1e1e1e;
+}
+#wrapper .ana p {
+    color: #000;
+}
+
+#wrapper .ana p.kucuk, #wrapper .ana p.kucuk a {
+    color:#bcbcbc;
+}
+#custom-header-menu .navbar-nav > .dropdown > a .caret,
+#custom-header-menu .navbar-nav > .dropdown > a:hover .caret,
+#custom-header-menu .navbar-nav > .dropdown > a:focus .caret,
+#custom-header-menu .navbar-nav > .open > a .caret, 
+#custom-header-menu .navbar-nav > .open > a:hover .caret, 
+#custom-header-menu .navbar-nav > .open > a:focus .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+@media (max-width: 767px) {
+#custom-header-menu .navbar-nav .open .dropdown-menu > li > a
+#custom-header-menu .navbar-nav .open .dropdown-menu > li > a:hover,
+#custom-header-menu .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #fff;
+}
+}
