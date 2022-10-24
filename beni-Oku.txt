@@ -1,2 +1,2 @@
-Bu tasarım semveseo tarafından ilk sürümü çıkartılmış 
-hptnc tarafından geliştirimesi devam etmektedir.
+Bu yeni dizin wordpress teması semveseo tarafından ilk sürümü çıkartılmış ;
+24 Ekim 2022 tarihinde PHP 8.1 ve Wordpress son sürümüne uyumlu hâle getirilmiştir.
